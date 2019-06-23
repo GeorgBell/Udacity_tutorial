@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you 
+need to do it?
+
+	A new hidden folder ".git" is created that contains 
+	metadata that contains data required for VCS.
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+	Staging area is used as intermediate step between working
+	directory and the repository.
