@@ -9,3 +9,11 @@ and the repository? What value do you think it offers?
 
 	Staging area is used as intermediate step between working
 	directory and the repository.
+
+How can you use the staging area to make sure
+you have one commit per logical change?
+
+	Staging area can be used as a buffer that can store
+	intermediary files. After all the changes has been
+	added, the files from staging area can be commited to 
+	the repository.
